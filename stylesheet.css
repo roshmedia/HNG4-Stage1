@@ -1,0 +1,54 @@
+body {
+	background-color: #E5E5E5;
+}
+
+img {
+position: absolute;
+left: 0px;
+top: 0px;
+right: 0px;
+bottom: 0px;
+margin: auto;
+	
+}
+
+
+#GS8 {
+z-index: 1;
+position: absolute;
+width: 360px;
+height: 739px;
+left: 0px;
+top: 0px;
+right: 0px;
+bottom: 0px;
+margin: auto;
+
+/*
+background: #EDEDED;
+*/
+border: 1px solid #2F80ED;
+box-sizing: border-box;
+}
+
+
+#lagos_time {
+z-index: 2;
+position: absolute;
+width: 60px;
+height: 31px;
+left: 32px;
+top: 96px;
+border: 0px solid red;
+
+font-family: Delius;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 24px;
+text-align: center;
+
+color: #000000;	
+	
+	
+}
